@@ -1,0 +1,30 @@
+[INFO] Starting the application...
+[INFO] Starting email monitor...
+[INFO] Found 1 new email(s).
+[INFO] Starting email processing agent...
+[INFO] Processing UID: 142749
+[INFO] Email from: puneetshrivas32@gmail.com | Subject: Company Summary Request
+[INFO] Generating markdown summary...
+[SUCCESS] Company name extracted successfully: Aptos.ltd
+[INFO] Searching for 'Aptos.ltd'
+[WARNING] No organizations found for name: Aptos.ltd
+[WARNING] Org not found.
+[INFO] Starting error email processing
+[SUCCESS] Error Email processed successfully
+[INFO] Found 1 new email(s).
+[INFO] Starting email processing agent...
+[INFO] Processing UID: 142751
+[INFO] Email from: puneetshrivas32@gmail.com | Subject: Re: Company Summary Request
+[INFO] Generating markdown summary...
+[SUCCESS] Company name extracted successfully: nanonets.com
+[INFO] Searching for 'nanonets.com'
+[SUCCESS] Found organization: NanoNets
+[INFO] Getting details for 121082323
+[INFO] Searching for Notes for organization id: '121082323'
+[SUCCESS] Found 4 notes for organization id: 121082323
+[INFO] Generating markdown summary...
+[SUCCESS] Markdown summary generated successfully.
+[INFO] Generating PDF...
+[SUCCESS] PDF generated successfully
+[INFO] Starting email processing
+[SUCCESS] Email processed successfully
